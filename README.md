@@ -23,3 +23,6 @@ Let me know if you need anything else!
 ![alt](https://github.com/shimaa-mahmoud/Sales-Management-Project/blob/main/ERD.PNG)
 
 ## The Dashboards
+![overview report](https://github.com/shimaa-mahmoud/Sales-Management-Project/blob/main/overview.PNG)
+![product report](https://github.com/shimaa-mahmoud/Sales-Management-Project/blob/main/products.PNG)
+![customer report](https://github.com/shimaa-mahmoud/Sales-Management-Project/blob/main/customer.PNG)
