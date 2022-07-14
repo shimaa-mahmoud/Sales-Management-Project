@@ -19,4 +19,7 @@ Let me know if you need anything else!
   * A detailed overview of Internet Sales per Customers
   * A detailed overview of Internet Sales per Products
 
-## The Dashboard 
+## The ERD
+![alt](https://github.com/shimaa-mahmoud/Sales-Management-Project/blob/main/ERD.PNG)
+
+## The Dashboards
